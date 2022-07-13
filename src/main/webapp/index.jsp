@@ -150,7 +150,7 @@
         </div>
         <br>
         <!-- our names -->
-        <div style="border: 2px solid skyblue; border-radius: 5px; padding: 5px"><h3 style="font-size: 18px;">Τα μέλη
+        <div style="border: 2px solid skyblue; border-radius: 5px; padding: 5px"><h3 style="font-size: 18px;">Η ιστοσελίδα αυτή δημιουργήθηκε στα πλαίσια του μαθήματος "Ηλεκτρονική Μάθηση 2022". <br > Τα μέλη
             της ομάδας που δημιούργησαν αυτήν την ιστοσελίδα είναι(με αλφαβητική
             σειρά):</h3>
             <ul style="list-style: none">
