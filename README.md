@@ -159,4 +159,6 @@ This project was created by:
 - [Chaniotakis Nikolas](https://github.com/ChaniotakisNikolaos)
 - [Limnos Jason](https://github.com/LimnosJason)
 
-## Further Analysis(Greek User Manual and Download Manual)
+## Further Analysis(Greek User Manual and Technical Manual)
+* User Manual: [User Manual](https://github.com/SofiaBili/Project-E-Learning-Platform/blob/main/User_Manual.pdf)
+* Technical Manual: [User Manual](https://github.com/SofiaBili/Project-E-Learning-Platform/blob/main/Technical%20Manual.pdf)
