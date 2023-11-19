@@ -1,5 +1,5 @@
 # Project "E-Learning for greek school grade 5"
-A platform that provides educational content and resources online. University project for the subject "E-Learning" at University of West Attica, departement of Informatics and Computer Engineering.
+A platform that provides educational content and tests online for the subject of maths for school grade 5. University project for the subject "E-Learning" at University of West Attica, departement of Informatics and Computer Engineering.
 
 ## Table of Contents
 - [About](#about)
