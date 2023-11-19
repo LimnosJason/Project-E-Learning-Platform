@@ -1,10 +1,12 @@
 # Project "E-Learning for greek school grade 5"
 A platform that provides educational content and resources online. University project for the subject "E-Learning" at Informatics Computer Engineering.
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Tools and Technologies](#tools)
+- [Tools and Technologies](#tools-and-technologies)
 - [Installation Guide](#installation-guide)
+
 - ## About
 
 ### Project "E-Learning for greek school grade 5"
@@ -49,9 +51,7 @@ The subject of the selected project is the implementation of an "E-learning" web
   <img src="https://github.com/PaolaVlsc/E-Learning_WebsitePlatform/assets/87998374/c19e6a3f-d3db-47be-9b1e-bd7774813a7f" width="50%">
 </div>
 
-
 - ## Tools and Technologies
-
 
 ### Development Tools
 
