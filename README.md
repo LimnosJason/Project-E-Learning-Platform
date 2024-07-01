@@ -154,10 +154,10 @@ Make sure to install and configure these tools and technologies properly before 
 ## Contribution
 
 This project was created by:
-- [Me-Sofia Bili](https://github.com/SofiaBili)
+- [Me - Limnos Jason](https://github.com/LimnosJason)
+- [Sofia Bili](https://github.com/SofiaBili)
 - [Velasco Paola](https://github.com/PaolaVlsc)
 - [Chaniotakis Nikolas](https://github.com/ChaniotakisNikolaos)
-- [Limnos Jason](https://github.com/LimnosJason)
 
 ## Further Analysis(Greek User Manual and Technical Manual)
 * User Manual: [User Manual](https://github.com/SofiaBili/Project-E-Learning-Platform/blob/main/User_Manual.pdf)
